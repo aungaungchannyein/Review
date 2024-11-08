@@ -4,14 +4,13 @@ export default function Footer() {
       <small>
         <p>
           &copy; Copyright by{" "}
-          <a target="_blank" href="https://bytegrad.com">
-            ByteGrad.com
+          <a target="_blank" href="https://aungaungchannyein.github.io/portfolio/">
+            aungaung.channyein
           </a>{" "}
           Intended for learning or your portfolio.
         </p>
         <p>
-          <span className="u-bold u-italic">Not allowed</span> to use as your
-          own teaching material.
+          <span className="u-bold u-italic">Hello everyone</span> Send me something.
         </p>
       </small>
     </footer>
